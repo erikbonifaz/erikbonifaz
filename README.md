@@ -1,6 +1,6 @@
 # Hola, soy Erik 👋
 
-Desarrollador frontend enfocado en crear aplicaciones web **rápidas, claras y funcionales**.
+Desarrollador Web enfocado en crear aplicaciones web **rápidas, claras y funcionales**.
 
 ### Stack
 
