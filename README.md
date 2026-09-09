@@ -16,9 +16,6 @@ Desarrollador frontend enfocado en crear aplicaciones web **rápidas, claras y f
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E699?style=flat-square\&logo=neon\&logoColor=000)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-
-También tengo experiencia básica con:
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
 
