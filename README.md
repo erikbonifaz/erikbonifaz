@@ -19,6 +19,5 @@ Desarrollador Web enfocado en crear aplicaciones web **rápidas, claras y funcio
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
 
-Actualmente construyo proyectos full-stack, trabajo con APIs y sigo profundizando en arquitectura, manejo de estado y rendimiento en aplicaciones web.
 
 [Portafolio](https://erik-bonifaz-portfolio.vercel.app)
